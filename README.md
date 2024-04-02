@@ -133,3 +133,16 @@ To test all [FD] Methods and Models, please first create conda environment and t
   python ./YuNet_FD.py (automatically detect first webcam) --model '{your local}/face_detection_yunet_2023mar.onnx'
 
 ```
+
+## Used By
+
+This project is used by the following companies:
+
+- Google Mediapipe
+- Insightface (SCRFD, RetinaFace)
+- OpenCV (Haar-Cascade, YuNet)
+- Ultralytics (ultralytics) 
+
+## Caution 
+
+*Caution : To get more information about each [FD] Face Detection models, please check each model official GitHub repository or websites.*
