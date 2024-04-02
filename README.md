@@ -146,3 +146,7 @@ This project is used by the following companies:
 ## Caution 
 
 *Caution : To get more information about each [FD] Face Detection models, please check each model official GitHub repository or websites.*
+
+## Thank you
+
+Thank you to check [FD] Face Detection repository and try it. If you have any questions send me email uacoding01@gmail.com.
