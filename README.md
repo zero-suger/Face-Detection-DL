@@ -141,7 +141,7 @@ This project is used by the following companies:
 - Google Mediapipe
 - Insightface (SCRFD, RetinaFace)
 - OpenCV (Haar-Cascade, YuNet)
-- Ultralytics (ultralytics) 
+- Ultralytics (YOLO v5) 
 
 ## Caution 
 
